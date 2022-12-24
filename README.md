@@ -1,2 +1,3 @@
 # Sticky
-Stick Element to top of the viewport
+Vanilla JS plugin.
+Sticks element to top of the viewport.
