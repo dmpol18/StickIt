@@ -82,8 +82,8 @@ function Sticky(sticky, options) {
 }
 
 window.addEventListener("load", function () {
-    var sticky_menucontent = new Sticky(
-        document.querySelector(".menucontent").closest(".container"),
+    var sticky = new Sticky(
+        document.querySelector(".el"),
         // ".menucontent",
         {
             // offsetTop: 20,
