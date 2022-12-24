@@ -1,2 +1,2 @@
-# StickIt
+# Sticky
 Stick Element to top of the viewport
