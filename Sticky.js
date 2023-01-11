@@ -1,6 +1,6 @@
 /* Sticky */
 function Sticky(sticky, options) {
-    if (!sticky.nodeName) sticky = document.querySelector(sticky)
+    if (!sticky?.nodeName) sticky = document.querySelector(sticky)
     if (!sticky) return false
 
     let defaultOptions = {
